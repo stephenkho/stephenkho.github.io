@@ -124,6 +124,6 @@ Welcome to my personal webpage! I am an economist at the European Central Bank's
 
 My research interests are in empirical macroeconomics, monetary policy and financial intermediation.
 
-*The views expressed on this website are mine and do not necessarily reflect the positions of DNB, the ECB or the Eurosystem.* 
+## *The views expressed on this website are mine and do not necessarily reflect the positions of DNB, the ECB or the Eurosystem.* 
 
 
