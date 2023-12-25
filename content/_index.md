@@ -135,7 +135,7 @@ sections:
       title: Research
       filters:
         folders:
-          - publication
+          - research
         featured_only: true
     design:
       columns: '2'
