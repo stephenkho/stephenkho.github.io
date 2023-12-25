@@ -119,11 +119,11 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
+{style="text-align: justify;"}
 Welcome to my personal webpage! I am an economist at the European Central Bank's Monetary Analysis Division, on secondment from De Nederlandsche Bank. I am also affiliated with the University of Amsterdam's School of Economics as a PhD student. 
 
 My research interests are in empirical macroeconomics, monetary policy and financial intermediation.
 
-The views expressed on this website are mine and do not necessarily reflect the positions of DNB, the ECB or the Eurosystem. 
+*The views expressed on this website are mine and do not necessarily reflect the positions of DNB, the ECB or the Eurosystem.* 
 
-{style="text-align: justify;"}
+
