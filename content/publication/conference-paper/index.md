@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Deposit market concentration and monetary transmission: evidence from the euro area'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -31,12 +31,12 @@ publishDate: '2023-12-26T00:00:00Z'
 abstract: I study the transmission of monetary policy to deposit rates in the euro area with a focus on the role of banking sector concentration. Using a local projections framework with 2003-2022 country-level and bank-level data for thirteen euro area member states, I find that deposit rates respond symmetrically to unexpected changes in monetary policy. However, more concentrated domestic banking sectors do pass on unexpected monetary tightening (easing) more slowly (quickly) than less concentrated banking sectors, which contributes to a temporary divergence of deposit rates across the euro area. These results suggest that heterogeneity in the degree of banking sector concentration matters for the transmission of monetary policy, which in turn may affect banking sector profitability as well as the macro-economic response to monetary policy. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: I study the transmission of monetary policy to deposit rates in the euro area with a focus on the role of banking sector concentration. Using a local projections framework with 2003-2022 country-level and bank-level data for thirteen euro area member states, I find that deposit rates respond symmetrically to unexpected changes in monetary policy. However, more concentrated domestic banking sectors do pass on unexpected monetary tightening (easing) more slowly (quickly) than less concentrated banking sectors, which contributes to a temporary divergence of deposit rates across the euro area. These results suggest that heterogeneity in the degree of banking sector concentration matters for the transmission of monetary policy, which in turn may affect banking sector profitability as well as the macro-economic response to monetary policy. 
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
  links:
