@@ -45,6 +45,8 @@ links:
    url: https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2896~92bba6983d.en.pdf?da4b3ef23e1577b867b9cdc9e463d089
  - name: DNB WP (August 2023)
    url: https://www.dnb.nl/publicaties/publicaties-onderzoek/working-paper-2023/790-deposit-market-concentration-and-monetary-transmission-evidence-from-the-euro-area/
+ - name: SUERF Policy Brief
+   url: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/deposit-market-concentration-and-monetary-transmission-evidence-from-the-euro-area/
 
 #url_pdf: ''
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
