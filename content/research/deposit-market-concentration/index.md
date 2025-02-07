@@ -12,7 +12,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2024-01-29T00:00:00Z'
+date: '2025-02-07T00:00:00Z'
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +30,7 @@ date: '2024-01-29T00:00:00Z'
 abstract: I study the transmission of monetary policy to deposit rates in the euro area with a focus on asymmetries and the role of banking sector concentration. Using a local projections framework with 2003-2023 country-level and bank-level data for thirteen euro area member states, I find that deposit rates respond symmetrically to an unexpected tightening or easing of monetary policy. However, more concentrated domestic banking sectors do pass-on unexpected monetary tightening (easing) more slowly (quickly) than less concentrated banking sectors, which contributes to a temporary divergence of deposit rates across the euro area. These results suggest that heterogeneity in the degree of banking sector concentration matters for the transmission of monetary policy to deposit rates, which in turn may affect banking sector profitability.
 
 # Summary. An optional shortened abstract.
-summary: I study the transmission of monetary policy to deposit rates in the euro area with a focus on asymmetries and the role of banking sector concentration. Using a local projections framework with 2003-2023 country-level and bank-level data for thirteen euro area member states, I find that deposit rates respond symmetrically to an unexpected tightening or easing of monetary policy. However, more concentrated domestic banking sectors do pass-on unexpected monetary tightening (easing) more slowly (quickly) than less concentrated banking sectors, which contributes to a temporary divergence of deposit rates across the euro area. These results suggest that heterogeneity in the degree of banking sector concentration matters for the transmission of monetary policy to deposit rates, which in turn may affect banking sector profitability.
+summary: I study the transmission of monetary policy to deposit rates in the euro area with a focus on asymmetries and the role of banking sector concentration. Using a local projections framework with 2003–2023 country-level and bank-level data for thirteen euro area member states, I find that deposit rates respond symmetrically to an unexpected tightening or easing of monetary policy. However, more concentrated domestic banking sectors do pass-on unexpected monetary tightening (easing) more slowly (quickly) than less concentrated banking sectors, which contributes to a temporary divergence of deposit rates across the euro area. These results suggest that heterogeneity in the degree of banking sector concentration matters for the transmission of monetary policy to deposit rates, which in turn may affect banking sector profitability.
 
 #tags: []
 
@@ -41,6 +41,8 @@ featured: true
 
 
 links:
+ - name: European Economic Review (April 2025)
+   url: https://authors.elsevier.com/a/1kZj23F%7Ea%7EMb5
  - name: ECB WP (January 2024)
    url: https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2896~92bba6983d.en.pdf?da4b3ef23e1577b867b9cdc9e463d089
  - name: DNB WP (August 2023)
@@ -80,4 +82,4 @@ links:
 #slides: example
 ---
 
-I study the transmission of monetary policy to deposit rates in the euro area with a focus on asymmetries and the role of banking sector concentration. Using a local projections framework with 2003-2023 country-level and bank-level data for thirteen euro area member states, I find that deposit rates respond symmetrically to an unexpected tightening or easing of monetary policy. However, more concentrated domestic banking sectors do pass-on unexpected monetary tightening (easing) more slowly (quickly) than less concentrated banking sectors, which contributes to a temporary divergence of deposit rates across the euro area. These results suggest that heterogeneity in the degree of banking sector concentration matters for the transmission of monetary policy to deposit rates, which in turn may affect banking sector profitability.
+I study the transmission of monetary policy to deposit rates in the euro area with a focus on asymmetries and the role of banking sector concentration. Using a local projections framework with 2003–2023 country-level and bank-level data for thirteen euro area member states, I find that deposit rates respond symmetrically to an unexpected tightening or easing of monetary policy. However, more concentrated domestic banking sectors do pass-on unexpected monetary tightening (easing) more slowly (quickly) than less concentrated banking sectors, which contributes to a temporary divergence of deposit rates across the euro area. These results suggest that heterogeneity in the degree of banking sector concentration matters for the transmission of monetary policy to deposit rates, which in turn may affect banking sector profitability.
