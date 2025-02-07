@@ -144,6 +144,17 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: collection
+    id: policy-contributions
+    content:
+      title: Policy contributions
+      filters:
+        folders:
+          - policy-contributions
+        featured_only: true
+    design:
+      columns: '2'
+      view: compact    
   #- block: collection
   #  content:
   #    title: Recent Publications
