@@ -30,7 +30,7 @@ date: '2020-02-06T00:00:00Z'
 
 abstract: Nieuwe microdata laten zien dat banken in het eurogebied in de afgelopen tien jaar minder gebruik zijn gaan maken van ­obligatiefinanciering. Deze is gesubstitueerd door ­traditionele deposito’s en langlopende centralebankleningen, zoals de TLTRO’s. Langdurige afhankelijkheid van de centrale bank ligt hierdoor op de loer.
 
-#tags: []
+summary: Nieuwe microdata laten zien dat banken in het eurogebied in de afgelopen tien jaar minder gebruik zijn gaan maken van ­obligatiefinanciering. Deze is gesubstitueerd door ­traditionele deposito’s en langlopende centralebankleningen, zoals de TLTRO’s. Langdurige afhankelijkheid van de centrale bank ligt hierdoor op de loer.
 
 # Display this page in the Featured widget?
 featured: true
@@ -39,7 +39,7 @@ featured: true
 
 
 links:
- - name: ESB (February 2020)
+ - name: ESB
    url: https://esb.nu/banken-leunen-op-centrale-bank-voor-langdurige-financiering/
 
 #url_pdf: ''

@@ -43,7 +43,7 @@ featured: true
 
 
 links:
- - name: ECB OP (September 2021)
+ - name: ECB Occasional Paper
    url: https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op269~3f2619ac7a.en.pdf
 
 #url_pdf: ''

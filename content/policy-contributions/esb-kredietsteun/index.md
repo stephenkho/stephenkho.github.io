@@ -19,6 +19,7 @@ date: '2020-07-29T00:00:00Z'
 
 
 abstract: In maart legde de coronacrisis het economische verkeer lam. Hoe greep de Europese Centrale Bank (ECB) sindsdien in, en was dat succesvol? Een tussenstand.
+summary: In maart legde de coronacrisis het economische verkeer lam. Hoe greep de Europese Centrale Bank (ECB) sindsdien in, en was dat succesvol? Een tussenstand.
 
 #tags: []
 
@@ -29,7 +30,7 @@ featured: true
 
 
 links:
- - name: ESB (July 2020)
+ - name: ESB
    url: https://esb.nu/kredietsteun-ecb-helpt-om-de-coronaklap-op-te-vangen/
 
 #url_pdf: ''

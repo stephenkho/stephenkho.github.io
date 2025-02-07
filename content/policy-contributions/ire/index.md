@@ -42,7 +42,7 @@ featured: true
 
 
 links:
- - name: ESB (August 2020)
+ - name: ESB
    url: https://esb.nu/grotere-internationale-rol-voor-de-euro-vereist-sterker-fundament/
 
 #url_pdf: ''
