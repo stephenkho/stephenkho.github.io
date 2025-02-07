@@ -34,16 +34,16 @@ organizations:
  # - Information Retrieval
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Economics (on-going)
-      institution: University of Amsterdam
+#education:
+  #courses:
+    #- course: PhD in Economics (on-going)
+    #  institution: University of Amsterdam
       #year: 2012
-    - course: MSc in Econometrics and Mathematical Economics
-      institution: London School of Economics and Political Science
+    #- course: MSc in Econometrics and Mathematical Economics
+    #  institution: London School of Economics and Political Science
       #year: 2009
-    - course: BA in Economics with Mathematics and Politics
-      institution: New York University
+    #- course: BA in Economics with Mathematics and Politics
+    #  institution: New York University
       #year: 2008
 
 # Skills
@@ -94,6 +94,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:s.s.h.kho@uva.nl
+  - icon: "custom/bluesky" 
+    link: https://bsky.app/profile/stephenkho.bsky.social
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/stephenshkho
@@ -120,7 +122,9 @@ social:
 highlight_name: true
 ---
 {style="text-align: justify;"}
-Welcome to my personal webpage! I am a senior economist in [De Nederlandsche Bank's](https://www.dnb.nl/en/) monetary policy department. I am also affiliated with the [University of Amsterdam's School of Economics](https://ase.uva.nl/) as a PhD student. I was recently seconded to the [European Central Bank](https://www.ecb.europa.eu/)'s Monetary Analysis Division, and hold a MSc degree in Econometrics and Mathematical Economics from [the LSE](https://www.lse.ac.uk) and a BA in Economics with Mathematics and Politics from [NYU](https://www.nyu.edu).
+Welcome to my personal webpage! I am a senior economist in [De Nederlandsche Bank's](https://www.dnb.nl/en/) monetary policy department. I am also affiliated with the [University of Amsterdam's School of Economics](https://ase.uva.nl/) as a PhD student. 
+
+I was recently seconded to the [European Central Bank](https://www.ecb.europa.eu/)'s Monetary Analysis Division, and hold a MSc degree in Econometrics and Mathematical Economics from [the LSE](https://www.lse.ac.uk) and a BA in Economics with Mathematics and Politics from [NYU](https://www.nyu.edu).
 
 My research interests are in empirical macroeconomics, monetary policy and financial intermediation.
 
