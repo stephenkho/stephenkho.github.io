@@ -94,7 +94,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:s.s.h.kho@uva.nl
-  - icon: bluesky
+  - icon: bluesky.svg
     icon_pack: custom
     link: https://bsky.app/profile/stephenkho.bsky.social
   - icon: twitter
