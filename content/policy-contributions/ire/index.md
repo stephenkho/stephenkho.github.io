@@ -1,18 +1,19 @@
 ---
-title: 'ECB’s price stability framework: past experience, and current and future challenges'
+title: 'Grotere internationale rol voor de euro vereist sterker fundament'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - ecb-ws
+  - ngilbert
+  - admin
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2021-09-21T00:00:00Z'
+date: '2020-08-13T00:00:00Z'
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -27,12 +28,10 @@ date: '2021-09-21T00:00:00Z'
 #publication: In *Hugo Blox Builder Conference*
 # publication_short: In *ICW*
 
-abstract: "The ECB’s price stability mandate has been defined by the Treaty. But the Treaty has not spelled out what price stability precisely means. To make the mandate operational, the Governing Council has provided a quantitative definition in 1998 and a clarification in 2003. The landscape has changed notably compared to the time the strategy review was originally designed. At the time, the main concern of the Governing Council was to anchor inflation at low levels in face of the inflationary history of the previous decades. Over the last decade economic conditions have changed dramatically: the persistent low-inflation environment has created the concrete risk of de-anchoring of longer-term inflation expectations. Addressing low inflation is different from addressing high inflation. The ability of the ECB (and central banks globally) to provide the necessary accommodation to maintain price stability has been tested by the lower bound on nominal interest rates in the context of the secular decline in the equilibrium real interest rate. Against this backdrop, this report analyses: the ECB’s performance as measured against its formulation of price stability; whether it is possible to identify a preferred level of steady-state inflation on the basis of optimality considerations; advantages and disadvantages of formulating the objective in terms of a focal point or a range, or having both; whether the medium-term orientation of the ECB’s policy can serve as a mechanism to cater for other considerations; how to strengthen, in the presence of the lower bound, the ECB’s leverage on private-sector expectations for inflation and the ECB’s future policy actions so that expectations can act as ‘automatic stabilisers’ and work alongside the central bank." 
+abstract: Europa is mede door de grote rol van de dollar gevoelig voor politieke en economische ontwikkelingen in de Verenigde ­Staten. Tegen die achtergrond klinkt een roep om het internationale gebruik van de euro te stimuleren. Ligt hier een taak voor de ­centrale bank?
 
 
-summary: This report has been jointly produced by the Eurosystem work stream on the price stability objective comprising staff from the European
-Central Bank (ECB) and the national central banks (NCBs) of those countries that have adopted the euro. The report fed into the
-Governing Council’s deliberations on the monetary policy strategy review for 2020-21.
+summary: Europa is mede door de grote rol van de dollar gevoelig voor politieke en economische ontwikkelingen in de Verenigde ­Staten. Tegen die achtergrond klinkt een roep om het internationale gebruik van de euro te stimuleren. Ligt hier een taak voor de ­centrale bank?
 
 #tags: []
 
@@ -43,8 +42,8 @@ featured: true
 
 
 links:
- - name: ECB OP (September 2021)
-   url: https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op269~3f2619ac7a.en.pdf
+ - name: ESB (August 2020)
+   url: https://esb.nu/grotere-internationale-rol-voor-de-euro-vereist-sterker-fundament/
 
 #url_pdf: ''
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
