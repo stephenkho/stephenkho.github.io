@@ -28,7 +28,7 @@ date: '2020-08-13T00:00:00Z'
 #publication: In *Hugo Blox Builder Conference*
 # publication_short: In *ICW*
 
-abstract: Europa is mede door de grote rol van de dollar gevoelig voor politieke en economische ontwikkelingen in de Verenigde ­Staten. Tegen die achtergrond klinkt een roep om het internationale gebruik van de euro te stimuleren. Ligt hier een taak voor de ­centrale bank?
+abstract: "Europa is mede door de grote rol van de dollar gevoelig voor politieke en economische ontwikkelingen in de Verenigde ­Staten. Tegen die achtergrond klinkt een roep om het internationale gebruik van de euro te stimuleren. Ligt hier een taak voor de ­centrale bank?"
 
 
 summary: Europa is mede door de grote rol van de dollar gevoelig voor politieke en economische ontwikkelingen in de Verenigde ­Staten. Tegen die achtergrond klinkt een roep om het internationale gebruik van de euro te stimuleren. Ligt hier een taak voor de ­centrale bank?

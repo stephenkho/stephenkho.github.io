@@ -28,7 +28,7 @@ date: '2020-02-06T00:00:00Z'
 #publication: In *Hugo Blox Builder Conference*
 # publication_short: In *ICW*
 
-abstract: Nieuwe microdata laten zien dat banken in het eurogebied in de afgelopen tien jaar minder gebruik zijn gaan maken van ­obligatiefinanciering. Deze is gesubstitueerd door ­traditionele deposito’s en langlopende centralebankleningen, zoals de TLTRO’s. Langdurige afhankelijkheid van de centrale bank ligt hierdoor op de loer.
+abstract: "Nieuwe microdata laten zien dat banken in het eurogebied in de afgelopen tien jaar minder gebruik zijn gaan maken van ­obligatiefinanciering. Deze is gesubstitueerd door ­traditionele deposito’s en langlopende centralebankleningen, zoals de TLTRO’s. Langdurige afhankelijkheid van de centrale bank ligt hierdoor op de loer."
 
 summary: Nieuwe microdata laten zien dat banken in het eurogebied in de afgelopen tien jaar minder gebruik zijn gaan maken van ­obligatiefinanciering. Deze is gesubstitueerd door ­traditionele deposito’s en langlopende centralebankleningen, zoals de TLTRO’s. Langdurige afhankelijkheid van de centrale bank ligt hierdoor op de loer.
 

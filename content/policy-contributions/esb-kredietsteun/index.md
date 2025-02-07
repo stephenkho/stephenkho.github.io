@@ -18,7 +18,7 @@ date: '2020-07-29T00:00:00Z'
 #doi: ''
 
 
-abstract: In maart legde de coronacrisis het economische verkeer lam. Hoe greep de Europese Centrale Bank (ECB) sindsdien in, en was dat succesvol? Een tussenstand.
+abstract: "In maart legde de coronacrisis het economische verkeer lam. Hoe greep de Europese Centrale Bank (ECB) sindsdien in, en was dat succesvol? Een tussenstand."
 summary: In maart legde de coronacrisis het economische verkeer lam. Hoe greep de Europese Centrale Bank (ECB) sindsdien in, en was dat succesvol? Een tussenstand.
 
 #tags: []
