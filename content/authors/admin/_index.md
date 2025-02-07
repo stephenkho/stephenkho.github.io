@@ -17,7 +17,7 @@ last_name: Kho
 superuser: true
 
 # Role/position/tagline
-role: Economist
+role: Senior economist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -94,7 +94,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:s.s.h.kho@uva.nl
-  - icon: bluesky.svg
+  - icon: "custom/bluesky.svg"
     icon_pack: custom
     link: https://bsky.app/profile/stephenkho.bsky.social
   - icon: twitter
