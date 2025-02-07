@@ -94,11 +94,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:s.s.h.kho@uva.nl
-  - icon: "assets/media/icons/custom/bluesky.svg"
-    link: https://bsky.app/profile/stephenkho.bsky.social
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/stephenshkho
+    link: https://bsky.app/profile/stephenkho.bsky.social
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/stephenshkho
     #label: Follow me on Twitter
     #display:
     #  header: true
