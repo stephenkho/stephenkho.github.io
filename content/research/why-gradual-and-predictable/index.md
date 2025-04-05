@@ -46,6 +46,8 @@ featured: true
 links:
  - name: ECB WP (January 2025)
    url: https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3010~95b7ddb897.en.pdf
+ - name:  SUERF Policy Brief
+   url: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/why-gradual-and-predictable-bank-lending-and-real-economy-during-sharp-qt/
 
 #url_pdf: ''
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'

@@ -42,7 +42,7 @@ featured: true
 
 links:
  - name: European Economic Review (April 2025)
-   url: https://authors.elsevier.com/a/1kZj23F%7Ea%7EMb5
+   url: https://www.sciencedirect.com/science/article/abs/pii/S0014292124002629
  - name: ECB WP (January 2024)
    url: https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2896~92bba6983d.en.pdf?da4b3ef23e1577b867b9cdc9e463d089
  - name: DNB WP (August 2023)
