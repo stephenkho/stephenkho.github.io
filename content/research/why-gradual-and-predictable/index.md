@@ -30,10 +30,10 @@ date: '2025-01-09T00:00:00Z'
 #publication: In *Hugo Blox Builder Conference*
 # publication_short: In *ICW*
 
-abstract: Exploiting the recalibration of ECB’s outstanding central bank funding in 2022, we show that a sharp reabsorption of bank liquidity induces a tightening impact on credit supply, as intended when centralbanks reduce their balance sheets. The tightening originates from the sudden relative convenience for banks accustomed to large liquidity holdings to more rapidly adapt to the new environment. Moreover, we show that the associated reduction in credit supply has real economic effects.
+abstract: Exploiting the recalibration of ECB’s outstanding central bank funding in 2022, we show that a sharp reabsorption of bank liquidity induces a tightening impact on credit supply, as intended when central banks reduce their balance sheets. The tightening originates from the sudden relative convenience for banks accustomed to large liquidity holdings to more rapidly adapt to the new environment. Moreover, we show that the associated reduction in credit supply has real economic effects.
 
 # Summary. An optional shortened abstract.
-summary: Exploiting the recalibration of ECB’s outstanding central bank funding in 2022, we show that a sharp reabsorption of bank liquidity induces a tightening impact on credit supply, as intended when centralbanks reduce their balance sheets. The tightening originates from the sudden relative convenience for banks accustomed to large liquidity holdings to more rapidly adapt to the new environment. Moreover, we show that the associated reduction in credit supply has real economic effects.
+summary: Exploiting the recalibration of ECB’s outstanding central bank funding in 2022, we show that a sharp reabsorption of bank liquidity induces a tightening impact on credit supply, as intended when central banks reduce their balance sheets. The tightening originates from the sudden relative convenience for banks accustomed to large liquidity holdings to more rapidly adapt to the new environment. Moreover, we show that the associated reduction in credit supply has real economic effects.
 
 #tags: []
 
