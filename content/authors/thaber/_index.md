@@ -24,6 +24,12 @@ organizations:
   - name: De Nederlandsche Bank
     url: https://www.dnb.nl/en/
 
+
+social:
+  - icon: globe
+    icon_pack: fas
+    link: https://timohaber.com/
+
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 

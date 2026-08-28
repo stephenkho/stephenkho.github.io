@@ -44,8 +44,8 @@ featured: true
 
 
 links:
-#  - name: WP
-#    url: https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3010~95b7ddb897.en.pdf
+ - name: WP
+   url: https://stephenkho.github.io/uploads/us-trade-policy-and-euro-area-bank-lending.pdf
 #  - name:  SUERF Policy Brief
 #    url: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/why-gradual-and-predictable-bank-lending-and-real-economy-during-sharp-qt/
 
