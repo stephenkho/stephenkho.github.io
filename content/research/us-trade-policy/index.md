@@ -45,7 +45,7 @@ featured: true
 
 links:
  - name: WP
-   url: https://stephenkho.github.io/uploads/us-trade-policy-and-euro-area-bank-lending.pdf
+   url: https://stephenkho.github.io/uploads/U.S.%20Trade%20Policy%20and%20Euro%20Area%20Bank%20Lending.pdf
 #  - name:  SUERF Policy Brief
 #    url: https://www.suerf.org/publications/suerf-policy-notes-and-briefs/why-gradual-and-predictable-bank-lending-and-real-economy-during-sharp-qt/
 

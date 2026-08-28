@@ -24,6 +24,12 @@ organizations:
   - name: Northwestern University
     url: https://www.northwestern.edu/
 
+social:
+  - icon: globe
+    icon_pack: fas
+    link: https://tamardenbesten.com/
+
+
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
