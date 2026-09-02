@@ -125,7 +125,7 @@ highlight_name: true
 {style="text-align: justify;"}
 Welcome to my personal webpage! I am a senior economist in [De Nederlandsche Bank's](https://www.dnb.nl/en/) monetary policy department. I am also affiliated with the [University of Amsterdam's School of Economics](https://ase.uva.nl/) as a PhD student. 
 
-I was recently seconded to the [European Central Bank](https://www.ecb.europa.eu/)'s Monetary Analysis Division, and hold a MSc degree in Econometrics and Mathematical Economics from [the LSE](https://www.lse.ac.uk) and a BA in Economics with Mathematics and Politics from [NYU](https://www.nyu.edu).
+I was previously seconded to the [European Central Bank](https://www.ecb.europa.eu/)'s Monetary Analysis Division, and hold a MSc degree in Econometrics and Mathematical Economics from [the LSE](https://www.lse.ac.uk) and a BA in Economics with Mathematics and Politics from [NYU](https://www.nyu.edu).
 
 My research interests are in empirical macroeconomics, monetary policy and financial intermediation.
 
